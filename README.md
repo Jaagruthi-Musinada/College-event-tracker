@@ -15,8 +15,6 @@ A full-stack web application that allows students and administrators to create, 
 - Form validations and user feedback alerts
 
 ## 📁 Project Structure
-
-```bash
 college-event-tracker/
 ├── client/
 │   └── src/
@@ -30,7 +28,7 @@ college-event-tracker/
 │   └── index.js
 └── README.md
 
-Setup Instructions
+## Setup Instructions
 ## Backend
 cd server
 npm install
