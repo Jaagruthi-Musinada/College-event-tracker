@@ -30,17 +30,14 @@ college-event-tracker/
 
 ## Setup Instructions
 ## Backend
-cd server
-npm install
-node index.js
+cd server\
+npm install\
+node index.js\
 
 ## Frontend
-bash
-Copy
-Edit
-cd client
-npm install
-npm start
+cd client\
+npm install\
+npm start\
 
 
 ### `npm start`
