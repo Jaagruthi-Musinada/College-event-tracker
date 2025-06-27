@@ -15,29 +15,29 @@ A full-stack web application that allows students and administrators to create, 
 - Form validations and user feedback alerts
 
 ## 📁 Project Structure
-college-event-tracker/
-├── client/
-│   └── src/
-│       ├── components/
-│       ├── pages/
-│       ├── App.js
-│       └── index.js
-├── server/
-│   ├── routes/
-│   ├── models/
-│   └── index.js
+college-event-tracker/\
+├── client/\
+│   └── src/\
+│       ├── components/\
+│       ├── pages/\
+│       ├── App.js\
+│       └── index.js\
+├── server/\
+│   ├── routes/\
+│   ├── models/\
+│   └── index.js\
 └── README.md
 
 ## Setup Instructions
 ## Backend
 cd server\
 npm install\
-node index.js\
+node index.js
 
 ## Frontend
 cd client\
 npm install\
-npm start\
+npm start
 
 
 ### `npm start`
